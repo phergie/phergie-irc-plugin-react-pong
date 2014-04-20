@@ -12,7 +12,7 @@ The recommended method of installation is [through composer](http://getcomposer.
 ```JSON
 {
     "require": {
-        "phergie/phergie-irc-plugin-react-pong": "dev-master"
+        "phergie/phergie-irc-plugin-react-pong": "1.0.*"
     }
 }
 ```
