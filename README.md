@@ -9,12 +9,8 @@ respond to server ping events.
 
 The recommended method of installation is [through composer](http://getcomposer.org).
 
-```JSON
-{
-    "require": {
-        "phergie/phergie-irc-plugin-react-pong": "1.0.*"
-    }
-}
+```
+composer require phergie/phergie-irc-plugin-react-pong
 ```
 
 See Phergie documentation for more information on installing plugins.
