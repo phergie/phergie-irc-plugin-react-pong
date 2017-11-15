@@ -1,4 +1,8 @@
-# phergie/phergie-irc-plugin-react-pong
+# [DEPRECATED]phergie/phergie-irc-plugin-react-pong
+
+:exclamation: As of [Phergie Irc Client React](https://github.com/phergie/phergie-irc-client-react)
+version 3 and higher this plugin's functionality is provided by the Client.
+**If starting a new project you cannot use this plugin!**
 
 A plugin for [Phergie](http://github.com/phergie/phergie-irc-bot-react/) to
 respond to server ping events.
